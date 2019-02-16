@@ -1,0 +1,227 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="">
+    <meta name="author" content="">
+    <title></title>
+    <link rel="favicon" href="assets/images/favicon.png">
+    <link rel="stylesheet" media="screen" href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,700">
+    <link rel="stylesheet" href="assets/css/bootstrap.min.css">
+    <link rel="stylesheet" href="assets/css/font-awesome.min.css">
+    <!-- Custom styles for our template -->
+    <link rel="stylesheet" href="assets/css/bootstrap-theme.css" media="screen">
+    <link rel="stylesheet" href="assets/css/style.css">
+    <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!--[if lt IE 9]>
+	<script src="assets/js/html5shiv.js"></script>
+	<script src="assets/js/respond.min.js"></script>
+	<![endif]-->
+<style type="text/css">
+.container {
+	font-size: 14px;
+}
+.spring {
+	font-size: 16px;
+}
+.container1 {	font-size: 14px;
+}
+</style></head>
+
+<body>
+    <!-- Fixed navbar -->
+    <div class="navbar navbar-inverse">
+        <div class="container">
+            <div class="navbar-header">
+                <!-- Button for smallest screens -->
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse"><span class="icon-bar"></span><span class="icon-bar"></span><span class="icon-bar"></span></button>
+                <a class="navbar-brand" href="index.html">
+                    <img src="images/logo.gif" alt="Techro HTML5 template"></a>
+            </div>
+            <div class="navbar-collapse collapse">
+                <ul class="nav navbar-nav pull-right mainNav">
+                    <li><a href="index.html">Home</a></li>
+                   <li><a href="spring.html">Spring</a></li>
+					<li><a href="summer.html">Summer</a></li>
+					<li><a href="autumn.html">Autumn</a></li>
+					<li><a href="winter.html">Winter</a></li>
+                    <li><a href="pintugame.html">Game</a></li>
+                    <li><a href="have a try.html">Have a try</a></li>
+					<li class="dropdown">
+						<a href="#" class="dropdown-toggle" data-toggle="dropdown">Pages <b class="caret"></b></a>
+						<ul class="dropdown-menu">
+							<li><a href="spring.html">Spring</a></li>
+							<li><a href="summer.html">Summer</a></li>
+							<li><a href="autumn.html">Autumn</a></li>
+							<li><a href="winter.html">Winter</a></li>
+                        </ul>
+                    </li>
+                    
+                </ul>
+            </div>
+            <!--/.nav-collapse -->
+        </div>
+    </div>
+    <!-- /.navbar -->
+
+    <header id="head" class="secondary">
+        <div class="container">
+            <div class="row">
+                <div class="col-sm-8">
+                    <h1>Winter</h1>
+                </div>
+            </div>
+        </div>
+    </header>
+
+    <!-- container -->
+    <section class="container">
+        <div class="row"><!-- main content -->
+            <section class="col-sm-8 maincontent">
+                <h3>立冬</h3>
+                </p>
+            <table width="735" height="133" border="0">
+                  <tr>
+                    <td width="265" class="container">&nbsp;&nbsp;&nbsp;&nbsp;<span class="spring">立冬是农历二十四节气之一，也是中国传统节日之一；时间点在公历每年11月7-8日之间，即太阳位于黄经225°。此时，地球位于赤纬-16°19'，北京地区正午太阳高度仅有33°47'。立冬过后，日照时间将继续缩短，正午太阳高度继续降低。</span></td>
+                    <td width="460"><div align="left"><img src="assets/images/winter/19.png" width="203" height="190"></div></td>
+                  </tr>
+                </table>
+              <h3>小雪</h3>
+                </p>
+            <table width="735" height="133" border="0">
+                  <tr>
+                    <td width="523" class="container1">&nbsp;&nbsp;&nbsp;&nbsp;<span class="spring">小雪，是二十四节气中的第20个。11月22或23日，太阳到达黄经240°，此时称为小雪节气。此时，太阳位于赤纬-20°16'，这天北京地区白昼时间仅9小时49分钟，正午太阳高度仅29°50'。</span></td>
+                    <td width="202"><div align="left"><img src="assets/images/winter/20.png" width="203" height="190"></div></td>
+                  </tr>
+                </table>
+              <h3>大雪</h3>
+              </p>
+              <table width="735" height="133" border="0">
+                <tr>
+                  <td width="523" class="container1">&nbsp;&nbsp;&nbsp;&nbsp;<span class="spring">"大雪"是农历二十四节气中的第21个节气，更是冬季的第三个节气，标志着仲冬时节的正式开始；其时视太阳到达黄经255度。《月令七十二候集解》说："大雪，十一月节，至此而雪盛也。"大雪的意思是天气更冷，降雪的可能性比小雪时更大了，并不指降雪量一定很大。</span></td>
+                  <td width="202"><div align="left"><img src="assets/images/winter/21.png" width="203" height="190"></div></td>
+                </tr>
+              </table>
+              <h3>冬至</h3>
+              </p>
+              <table width="735" height="133" border="0">
+                <tr>
+                  <td width="523" class="container1">&nbsp;&nbsp;&nbsp;&nbsp;<span class="spring">冬至（Winter Solstice）又名'一阳生'，是中国农历中一个重要的节气 [1]  ，也是中华民族的一个传统节日，冬至俗称"数九、冬节"、"长至节"、"亚岁"等，早在二千五百多年前的春秋时代，中国就已经用土圭观测太阳，测定出了冬至，它是二十四节气中最早制订出的一个，时间在每年的公历12月21~23日。</span></td>
+                  <td width="202"><div align="left"><img src="assets/images/winter/22.png" width="203" height="190"></div></td>
+                </tr>
+              </table>
+              <h3>小寒</h3>
+              </p>
+              <table width="735" height="133" border="0">
+                <tr>
+                  <td width="523" class="container1">&nbsp;&nbsp;&nbsp;&nbsp;<span class="spring">小寒，为农历二十四节气中的第23个节气，也是冬季的第五个节气，标志着冬季时节的正式开始。当太阳到达黄经285°(小寒)时，对于神州大地而言，标志着一年中最寒冷的日子到来了。</span></td>
+                  <td width="202"><div align="left"><img src="assets/images/winter/23.png" width="203" height="190"></div></td>
+                </tr>
+              </table>
+              <h3>大寒</h3>
+              </p>
+              <table width="735" height="133" border="0">
+                <tr>
+                  <td width="523" class="container1">&nbsp;&nbsp;&nbsp;&nbsp;<span class="spring">大寒是二十四节气中最后一个节气，每年1月20日前后太阳到达黄经300°时为"大寒"。大寒，是天气寒冷到极点的意思。《授时通考·天时》引《三礼义宗》："大寒为中者，上形于小寒，故谓之大......寒气之逆极，故谓大寒。"</span></td>
+                  <td width="202"><div align="left"><img src="assets/images/winter/24.png" width="203" height="190"></div></td>
+                </tr>
+              </table>
+              <p>&nbsp;</p>
+              <p>&nbsp;</p>
+              <p>&nbsp;</p>
+              <p>&nbsp;</p>
+              <p>&nbsp;</p>
+              <p>&nbsp;</p>
+          <h3>&nbsp;</h3>
+</section>
+            <!-- /main -->
+
+            <!-- Sidebar -->
+      <aside class="col-sm-4 sidebar sidebar-right">
+
+        <div class="panel">
+          <h4>具体介绍</h4>
+            <ul class="list-unstyled list-spaces">
+                <li><a href="https://baike.baidu.com/item/%E7%AB%8B%E5%86%AC/489331?fr=aladdin">立冬</a><br>
+                    <span class="small text-muted">立冬太阳位于黄经225度，11月7-8日交节</span></li>
+                <li><a href="https://baike.baidu.com/item/%E5%B0%8F%E9%9B%AA/1022094?fr=aladdin">小雪</a><br>
+                    <span class="small text-muted">小雪太阳位于黄经240度，11月22-23日交节</span></li>
+                <li><a href="https://baike.baidu.com/item/%E5%A4%A7%E9%9B%AA/12827?fr=aladdin">大雪</a><br>
+                    <span class="small text-muted">大雪太阳位于黄经255度，12月6-8日交节</span></li>
+                <li><a href="https://baike.baidu.com/item/%E5%86%AC%E8%87%B3/9381?fr=aladdin">冬至</a><br>
+                    <span class="small text-muted">冬至太阳位于黄经270度，12月21-23日交节</span></li>
+                     <li><a href="https://baike.baidu.com/item/%E5%B0%8F%E5%AF%92/8893?fr=aladdin">小寒</a><br>
+                    <span class="small text-muted">小寒太阳位于黄经285度，1月5-7日交节</span></li>
+                     <li><a href="https://baike.baidu.com/item/%E5%A4%A7%E5%AF%92/490438?fr=aladdin">大寒</a><br>
+                    <span class="small text-muted">大寒太阳位于黄经300度，1月20-21日交节</span></li>
+            </ul>
+          </div>
+
+          </aside>
+            <!-- /Sidebar -->
+
+      </div>
+    </section>
+    <!-- /container -->
+    <section class="team-content">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-12">
+                    <h3>传统习俗图片赏析&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;传统习俗文字总结</h3>
+                     <p>&nbsp;</p>
+                     <a class="btn btn-mini" href="tupianshow.html">Read More</a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a class="btn btn-mini" href="mdb.asp">Read More</a>
+                    <p>&nbsp;</p>
+                    <br />
+                </div>
+            </div>
+            <div class="row"></div>
+        </div>
+    </section>
+      <div class="footer2">
+      <div class="container">
+                <div class="row">
+
+                    <div class="col-md-6 panel">
+                        <div class="panel-body">
+                            <p class="simplenav">
+								<a href="index.html">Home</a> | 
+								<a href="spring.html">Spring</a> |
+								<a href="summer.html">Summer</a> |
+								<a href="autumn.html">Autumn</a> |
+								<a href="winter.html">Winter</a> |
+								<a href="pintugame.html">Game</a>|
+								<a href="have a try.html">Have a try</a>
+							</p>
+                        </div>
+                    </div>
+
+                    <div class="col-md-6 panel">
+                        <div class="panel-body">
+                            <p class="text-right">&copy;  2018 王雨静 周怡慧 地址：北京印刷学院</p>
+                        </div>
+                    </div>
+
+                </div>
+                <!-- /row of panels -->
+            </div>
+        </div>
+    </footer>
+
+
+
+    <!-- JavaScript libs are placed at the end of the document so the pages load faster -->
+    <script src="assets/js/jquery-1.8.3.min.js"></script>
+    <script src="assets/js/bootstrap.min.js"></script>
+    <script src="assets/js/custom.js"></script>
+    <style>.stage {position: fixed;top: 0;left: 0;width: 100%;height: 100%;z-index: 5;pointer-events: none}</style>
+
+
+
+<canvas id="stage1" class="stage"></canvas>
+
+
+<script type="text/javascript" src="assets/js/jquery.js"></script>
+<script type="text/javascript" src="assets/js/canvas.js"></script>
+</body>
+</html>

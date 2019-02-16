@@ -1,0 +1,231 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="">
+    <meta name="author" content="">
+    <title></title>
+    <link rel="favicon" href="assets/images/favicon.png">
+    <link rel="stylesheet" media="screen" href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,700">
+    <link rel="stylesheet" href="assets/css/bootstrap.min.css">
+    <link rel="stylesheet" href="assets/css/font-awesome.min.css">
+    <!-- Custom styles for our template -->
+    <link rel="stylesheet" href="assets/css/bootstrap-theme.css" media="screen">
+    <link rel="stylesheet" href="assets/css/style.css">
+    <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!--[if lt IE 9]>
+	<script src="assets/js/html5shiv.js"></script>
+	<script src="assets/js/respond.min.js"></script>
+	<![endif]-->
+<style type="text/css">
+.container {
+	font-size: 14px;
+}
+.spring {
+	font-size: 16px;
+}
+.container1 {	font-size: 14px;
+}
+</style></head>
+
+<body>
+    <!-- Fixed navbar -->
+    <div class="navbar navbar-inverse">
+        <div class="container">
+            <div class="navbar-header">
+                <!-- Button for smallest screens -->
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse"><span class="icon-bar"></span><span class="icon-bar"></span><span class="icon-bar"></span></button>
+                <a class="navbar-brand" href="index.html">
+                    <img src="images/logo.gif" alt="Techro HTML5 template"></a>
+            </div>
+            <div class="navbar-collapse collapse">
+                <ul class="nav navbar-nav pull-right mainNav">
+                    <li><a href="index.html">Home</a></li>
+                    <li class="active"><a href="spring.html">Spring </a></li>
+                   	<li><a href="summer.html">Summer</a></li>
+					<li><a href="autumn.html">Autumn</a></li>
+					<li><a href="winter.html">Winter</a></li>
+                    <li><a href="pintugame.html">Game</a></li>
+                    <li><a href="have a try.html">Have a try</a></li>
+                    <li class="dropdown">
+                        <a href="#" class="dropdown-toggle" data-toggle="dropdown">Pages <b class="caret"></b></a>
+                        <ul class="dropdown-menu">
+                            <li><a href="spring.html">Spring</a></li>
+                            <li><a href="summer.html">Summer</a></li>
+                            <li><a href="autumn.html">Autumn</a></li>
+                            <li><a href="winter.html">Winter</a></li>
+                        </ul>
+                    </li>           
+                </ul>
+            </div>
+            <!--/.nav-collapse -->
+        </div>
+    </div>
+    <!-- /.navbar -->
+<!-- Header --><!-- /Header -->
+
+
+    <header id="head" class="secondary">
+        <div class="container">
+            <div class="row">
+                <div class="col-sm-8">
+                    <h1>Spring</h1>
+                </div>
+            </div>
+        </div>
+    </header>
+
+    <!-- container -->
+    <section class="container">
+        <div class="row"><!-- main content -->
+            <section class="col-sm-8 maincontent">
+                <h3>立春</h3>
+                </p>
+            <table width="735" height="133" border="0">
+                  <tr>
+                    <td width="265" class="container">&nbsp;&nbsp;&nbsp;&nbsp;<span class="spring">立春不仅是农历二十四节气中的第一个节气，立春是从天文上来划分的，而在自然界、在人们的心目中，春意味着风和日暖，鸟语花香；春也意味着万物生长，农家播种。故《立春》诗云：&quot;东风带雨逐西风，大地阳和暖气生。万物苏萌山水醒，农家岁首又谋耕。&quot;（左河水）。在气候学中，春季是指候（5天为一候）平均气温10℃至22℃的时段。</span></td>
+                    <td width="460"><div align="left"><img src="assets/images/Spring/1.png" alt="" width="203" height="190" class="img-rounded pull-right"></div></td>
+                  </tr>
+                </table>
+              <h3>雨水</h3>
+                </p>
+            <table width="735" height="133" border="0">
+                  <tr>
+                    <td width="523" class="container1">&nbsp;&nbsp;&nbsp;&nbsp;<span class="spring">雨水，是二十四节气之中的第2个节气，位于每年正月十五前后（公历2月18-20日），太阳到达黄经330°。
+雨水和谷雨、小雪、大雪一样，都是反映降水现象的节气。 这天通常出嫁的女儿要回家探望父母，要给母亲送一段红绸和炖一罐肉。</span></td>
+                    <td width="202"><div align="left"><img src="assets/images/Spring/2.png" width="203" height="190"></div></td>
+                  </tr>
+                </table>
+              <h3>惊蛰</h3>
+              </p>
+              <table width="735" height="133" border="0">
+                <tr>
+                  <td width="523" class="container1">&nbsp;&nbsp;&nbsp;&nbsp;<span class="spring">惊蛰，古称"启蛰"，是二十四节气中的第三个节气，标志着仲春时节的开始；太阳到达黄经345°时。《月令七十二候集解》："二月节……万物出乎震，震为雷，故曰惊蛰，是蛰虫惊而出走矣。"</span></td>
+                  <td width="202"><div align="left"><img src="assets/images/Spring/3.png" width="203" height="190"></div></td>
+                </tr>
+              </table>
+              <h3>春分</h3>
+              </p>
+              <table width="735" height="133" border="0">
+                <tr>
+                  <td width="523" class="container1">&nbsp;&nbsp;&nbsp;&nbsp;<span class="spring">春分，是春季九十天的中分点。二十四节气之一，每年公历大约为3月20日左右，太阳位于黄经0°（春分点）时。春分这一天太阳直射地球赤道，南北半球季节相反，北半球是春分，在南半球来说就是秋分。</span></td>
+                  <td width="202"><div align="left"><img src="assets/images/Spring/4.png" width="203" height="190"></div></td>
+                </tr>
+              </table>
+              <h3>清明</h3>
+              </p>
+              <table width="735" height="133" border="0">
+                <tr>
+                  <td width="523" class="container1">&nbsp;&nbsp;&nbsp;&nbsp;<span class="spring">清明节又叫踏青节，在仲春与暮春之交。是中国传统节日，也是最重要的祭祀节日之一，是祭祖和扫墓的日子。中华民族传统的清明节大约始于周代，距今已有二千五百多年的历史。</span></td>
+                  <td width="202"><div align="left"><img src="assets/images/Spring/5.png" width="203" height="190"></div></td>
+                </tr>
+              </table>
+              <h3>谷雨</h3>
+              </p>
+              <table width="735" height="133" border="0">
+                <tr>
+                  <td width="523" class="container1">&nbsp;&nbsp;&nbsp;&nbsp;<span class="spring">谷雨是二十四节气的第六个节气，也是春季最后一个节气，每年4月19日～21日时太阳到达黄经30°时为谷雨，源自古人"雨生百谷"之说。同时也是播种移苗、埯瓜点豆的最佳时节。</span></td>
+                  <td width="202"><div align="left"><img src="assets/images/Spring/6.png" width="203" height="190"></div></td>
+                </tr>
+              </table>
+              <p>&nbsp;</p>
+              <p>&nbsp;</p>
+              <p>&nbsp;</p>
+              <p>&nbsp;</p>
+              <p>&nbsp;</p>
+              <p>&nbsp;</p>
+          <h3>&nbsp;</h3>
+</section>
+            <!-- /main -->
+
+            <!-- Sidebar -->
+      <aside class="col-sm-4 sidebar sidebar-right">
+
+        <div class="panel">
+          <h4>具体介绍</h4>
+            <ul class="list-unstyled list-spaces">
+                <li><a href="https://baike.baidu.com/item/%E7%AB%8B%E6%98%A5/8896?fr=aladdin">立春</a><br>
+                    <span class="small text-muted">立春太阳位于黄经315度，2月3-5日交节</span></li>
+                <li><a href="https://baike.baidu.com/item/%E9%9B%A8%E6%B0%B4/266315?fr=aladdin">雨水</a><br>
+                    <span class="small text-muted">雨水太阳位于黄经330度，2月18-20日交节</span></li>
+                <li><a href="https://baike.baidu.com/item/%E6%83%8A%E8%9B%B0/9428?fr=aladdin">惊蛰</a><br>
+                    <span class="small text-muted">惊蛰太阳位于黄经345度，3月5-7日交节</span></li>
+                <li><a href="https://baike.baidu.com/item/%E6%98%A5%E5%88%86/16864?fr=aladdin">春分</a><br>
+                    <span class="small text-muted">春分太阳位于黄经0度，3月20-22日交节</span></li>
+                     <li><a href="https://baike.baidu.com/item/%E6%B8%85%E6%98%8E%E8%8A%82/137575?fr=aladdin&fromid=34808&fromtitle=%E6%B8%85%E6%98%8E">清明</a><br>
+                    <span class="small text-muted">清明太阳位于黄经15度，4月4-6日交节</span></li>
+                     <li><a href="https://baike.baidu.com/item/%E8%B0%B7%E9%9B%A8/6959?fr=aladdin">谷雨</a><br>
+                    <span class="small text-muted">谷雨太阳位于黄经30度，4月19-21日交节</span></li>
+            </ul>
+          </div>
+
+          </aside>
+            <!-- /Sidebar -->
+
+      </div>
+    </section>
+    <!-- /container -->
+    <section class="team-content">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-12">
+                    <h3 align="center">传统习俗图片赏析</h3>
+                     <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+					 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+					 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                     <a align="center" class="btn btn-mini" href="tupianshow.html">Read More</a> 
+                    <p>&nbsp;</p>
+                    <br />
+                </div>
+            </div>
+            <div class="row"></div>
+        </div>
+    </section>
+      <div class="footer2">
+      <div class="container">
+                <div class="row">
+
+                    <div class="col-md-6 panel">
+                        <div class="panel-body">
+                            <p class="simplenav">
+								<a href="index.html">Home</a> | 
+								<a href="spring.html">Spring</a> |
+								<a href="summer.html">Summer</a> |
+								<a href="autumn.html">Autumn</a> |
+								<a href="winter.html">Winter</a> |
+								<a href="pintugame.html">Game</a>|
+								<a href="have a try.html">Have a try</a>
+							</p>
+                        </div>
+                    </div>
+
+                    <div class="col-md-6 panel">
+                        <div class="panel-body">
+                            <p class="text-right">&copy;  2018 王雨静 周怡慧 地址：北京印刷学院</p>
+                        </div>
+                    </div>
+
+                </div>
+                <!-- /row of panels -->
+            </div>
+        </div>
+    </footer>
+
+
+
+    <!-- JavaScript libs are placed at the end of the document so the pages load faster -->
+    <script src="assets/js/jquery-1.8.3.min.js"></script>
+    <script src="assets/js/bootstrap.min.js"></script>
+    <script src="assets/js/custom.js"></script>
+    <style>.stage {position: fixed;top: 0;left: 0;width: 100%;height: 100%;z-index: 5;pointer-events: none}</style>
+
+
+
+<canvas id="stage1" class="stage"></canvas>
+
+
+<script type="text/javascript" src="assets/js/jquery.js"></script>
+<script type="text/javascript" src="assets/js/canvas.js"></script>
+</body>
+</html>
